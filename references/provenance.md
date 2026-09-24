@@ -69,3 +69,21 @@
 - `introduction.md` 与 `results.md`：限定研究空白、文献冲突及不显著结果的解释依据。
 
 当前稿优先、跨章一致性与按需检查沿用既有规则；不增加逐项审批、固定段落模板或材料用途登记表。
+
+## 九、标点与中英文混排（2026-09-22）
+
+- [Cambridge English Grammar Today：Punctuation](https://dictionary.cambridge.org/grammar/british-grammar/punctuation)：核对英文逗号与定语从句、分号、冒号、引号和括号的功能。区分语法规则与体例选择，不将一般英语示例扩展为科技排版标准。
+- [北卡罗来纳大学教堂山分校写作中心：Fragments and Run-ons](https://writingcenter.unc.edu/tips-and-tools/fragments-and-run-ons/)：核对独立分句、逗号拼接及通过句号、分号或适当连词修正句界的方法。
+- [W3C《中文排版需求》](https://www.w3.org/TR/clreq/)：核对标点类别、符号形态、中西文混排与间距处理。所读版本标为 2026-09-01 的 Group Note Draft，作为公开设计参考，不视为强制规范，也不据其转述声称已直接核验 GB/T 15834—2011 原文。
+
+据此在中文表达参考中加入初稿与终校共用的标点检查，按句法、语义和目标体例处理；条件安置、引文保护和避免全局误替换沿用本技能的语义保护原则。不设置标点频率指标，也不把某一种英美或地区体例规定为通用规则。
+
+## 十、论文题名与章节标题（2026-09-22）
+
+本次直接核对以下公开作者指南：
+
+- [Springer Nature：Titles, Abstracts & Keywords](https://www.springernature.com/gp/authors/campaigns/writing-a-manuscript/titles-abstracts-keywords)：支持准确描述研究主题、保留可检索词、简洁表达，以及比较候选后精炼题名。
+- [PLOS ONE：Submission Guidelines — Title](https://journals.plos.org/plosone/s/submission-guidelines#loc-title)：支持具体、描述性、简洁、可理解的题名及减少专业缩写；临床试验、系统综述和元分析在副标题中标明研究设计是该刊的明确要求，应用到其他文稿时须核对目标规范。
+- [Nature：Formatting Guide — Titles](https://www.nature.com/nature/for-authors/formatting-guide)：支持兼顾检索信息与领域外读者的理解。其长度、缩写和标点限制属于该刊体例，不推广为中文学位论文通则。
+
+论文结构参考集中定义题名撰写与回查；因果强度、成果状态和范围保护沿用本技能的证据原则。章节标题沿用第六节的修订依据，将共用规则从报告参考移至文档建模与审计参考，覆盖提纲、初稿和审校，并区分并列分类小节与承担不同论证阶段的章节。论文与报告均引用同一处规则，不要求局部标题任务建立全文模型。
